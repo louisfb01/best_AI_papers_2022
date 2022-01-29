@@ -31,6 +31,7 @@ Subscribe to my [newsletter](http://eepurl.com/huGLT5) - The latest updates in A
 
 ## The Full List
 - [Resolution-robust Large Mask Inpainting with Fourier Convolutions [1]](#1)
+- [Stitch it in Time: GAN-Based Facial Editing of Real Videos [2]](#2)
 - [Paper references](#references)
 
 ---
@@ -49,6 +50,18 @@ This task of removing part of an image and replacing it with what should appear 
 * [Colab Demo](https://colab.research.google.com/github/saic-mdal/lama/blob/master/colab/LaMa_inpainting.ipynb)
 * [Product using LaMa](https://cleanup.pictures/)
 
+
+## Stitch it in Time: GAN-Based Facial Editing of Real Videos [2]<a name="2"></a>
+You've most certainly seen movies like the recent Captain Marvel or Gemini Man where Samuel L Jackson and Will Smith appeared to look like they were much younger. This requires hundreds if not thousands of hours of work from professionals manually editing the scenes he appeared in.
+Instead, you could use a simple AI and do it within a few minutes. Indeed, many techniques allow you to add smiles, make you look younger or older, all automatically using AI-based algorithms. It is called AI-based face manipulations in videos and here's the current state-of-the-art in 2022!
+
+
+* Short Video Explanation:<br/>
+[<img src="https://imgur.com/lvgMjzS.png" width="512"/>](https://youtu.be/mqItu9XoUgk)
+* Short read: [AI Facial Editing of Real Videos ! Stitch it in Time Explained](https://www.louisbouchard.ai/stitch-it-in-time/)
+* Paper: [Stitch it in Time: GAN-Based Facial Editing of Real Videos](https://arxiv.org/abs/2201.08361)
+* [Code](https://github.com/rotemtzaban/STIT)
+
 ---
 
 
@@ -64,3 +77,4 @@ This task of removing part of an image and replacing it with what should appear 
 
 [1] Suvorov, R., Logacheva, E., Mashikhin, A., Remizova, A., Ashukha, A., Silvestrov, A., Kong, N., Goka, H., Park, K. and Lempitsky, V., 2022. Resolution-robust Large Mask Inpainting with Fourier Convolutions. In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (pp. 2149–2159)., https://arxiv.org/pdf/2109.07161.pdf
 
+[2] Tzaban, R., Mokady, R., Gal, R., Bermano, A.H. and Cohen-Or, D., 2022. Stitch it in Time: GAN-Based Facial Editing of Real Videos. https://arxiv.org/abs/2201.08361
