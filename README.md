@@ -32,6 +32,7 @@ Subscribe to my [newsletter](http://eepurl.com/huGLT5) - The latest updates in A
 ## The Full List
 - [Resolution-robust Large Mask Inpainting with Fourier Convolutions [1]](#1)
 - [Stitch it in Time: GAN-Based Facial Editing of Real Videos [2]](#2)
+- [NeROIC: Neural Rendering of Objects from Online Image Collections [3]](#3)
 - [Paper references](#references)
 
 ---
@@ -62,6 +63,19 @@ Instead, you could use a simple AI and do it within a few minutes. Indeed, many 
 * Paper: [Stitch it in Time: GAN-Based Facial Editing of Real Videos](https://arxiv.org/abs/2201.08361)
 * [Code](https://github.com/rotemtzaban/STIT)
 
+
+## NeROIC: Neural Rendering of Objects from Online Image Collections [3]<a name="3"></a>
+Neural Rendering. Neural Rendering is the ability to generate a photorealistic model in space just like this one, from pictures of the object, person, or scene of interest. In this case, you’d have a handful of pictures of this sculpture and ask the machine to understand what the object in these pictures should look like in space. You are basically asking a machine to understand physics and shapes out of images. This is quite easy for us since we only know the real world and depths, but it’s a whole other challenge for a machine that only sees pixels.
+It’s great that the generated model looks accurate with realistic shapes, but what about how it blends in the new scene? And what if the lighting conditions vary in the pictures taken and the generated model looks different depending on the angle you look at it? This would automatically seem weird and unrealistic to us. These are the challenges Snapchat and the University of Southern California attacked in this new research.
+
+
+* Short Video Explanation:<br/>
+[<img src="https://imgur.com/xTpuwcN.png" width="512"/>](https://youtu.be/88Pl9zD1Z78)
+* Short read: [Create Realistic 3D Renderings with AI !](https://www.louisbouchard.ai/neroic/)
+* Paper: [NeROIC: Neural Rendering of Objects from Online Image Collections](https://arxiv.org/pdf/2201.02533.pdf)
+* [Code](https://github.com/snap-research/NeROIC)
+
+
 ---
 
 
@@ -78,3 +92,5 @@ Instead, you could use a simple AI and do it within a few minutes. Indeed, many 
 [1] Suvorov, R., Logacheva, E., Mashikhin, A., Remizova, A., Ashukha, A., Silvestrov, A., Kong, N., Goka, H., Park, K. and Lempitsky, V., 2022. Resolution-robust Large Mask Inpainting with Fourier Convolutions. In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (pp. 2149–2159)., https://arxiv.org/pdf/2109.07161.pdf
 
 [2] Tzaban, R., Mokady, R., Gal, R., Bermano, A.H. and Cohen-Or, D., 2022. Stitch it in Time: GAN-Based Facial Editing of Real Videos. https://arxiv.org/abs/2201.08361
+
+[3] Kuang, Z., Olszewski, K., Chai, M., Huang, Z., Achlioptas, P. and Tulyakov, S., 2022. NeROIC: Neural Rendering of Objects from Online Image Collections. https://arxiv.org/pdf/2201.02533.pdf
