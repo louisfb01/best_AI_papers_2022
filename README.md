@@ -33,6 +33,7 @@ Subscribe to my [newsletter](http://eepurl.com/huGLT5) - The latest updates in A
 - [Resolution-robust Large Mask Inpainting with Fourier Convolutions [1]](#1)
 - [Stitch it in Time: GAN-Based Facial Editing of Real Videos [2]](#2)
 - [NeROIC: Neural Rendering of Objects from Online Image Collections [3]](#3)
+- [SpeechPainter: Text-conditioned Speech Inpainting [4]](#4)
 - [Paper references](#references)
 
 ---
@@ -76,6 +77,23 @@ It’s great that the generated model looks accurate with realistic shapes, but 
 * [Code](https://github.com/snap-research/NeROIC)
 
 
+## SpeechPainter: Text-conditioned Speech Inpainting [4]<a name="3"></a>
+We’ve seen image inpainting, which aims to remove an undesirable object from a picture. The machine learning-based techniques do not simply remove the objects, but they also understand the picture and fill the missing parts of the image with what the background should look like.
+The recent advancements are incredible, just like the results, and this inpainting task can be quite useful for many applications like advertisements or improving your future Instagram post. We also covered an even more challenging task: video inpainting, where the same process is applied to videos to remove objects or people.
+
+The challenge with videos comes with staying consistent from frame to frame without any buggy artifacts. But now, what happens if we correctly remove a person from a movie and the sound is still there, unchanged? Well, we may hear a ghost and ruin all our work.
+
+This is where a task I never covered on my channel comes in: speech inpainting. You heard it right, researchers from Google just published a paper aiming at inpainting speech, and, as we will see, the results are quite impressive. Okay, we might rather hear than see the results, but you get the point. It can correct your grammar, pronunciation or even remove background noise. All things I definitely need to keep working on, or… simply use their new model… Listen to the examples in my video!
+
+
+
+* Short Video Explanation:<br/>
+[<img src="https://imgur.com/JyQ41Qv.png" width="512"/>](https://youtu.be/zIIc4bRf5Hg)
+* Short read: [Speech Inpainting with AI !](https://www.louisbouchard.ai/speech-inpainting-with-ai/)
+* Paper: [SpeechPainter: Text-conditioned Speech Inpainting](https://arxiv.org/pdf/2202.07273.pdf)
+* [Listen to more examples](https://google-research.github.io/seanet/speechpainter/examples/)
+
+
 ---
 
 
@@ -94,3 +112,5 @@ It’s great that the generated model looks accurate with realistic shapes, but 
 [2] Tzaban, R., Mokady, R., Gal, R., Bermano, A.H. and Cohen-Or, D., 2022. Stitch it in Time: GAN-Based Facial Editing of Real Videos. https://arxiv.org/abs/2201.08361
 
 [3] Kuang, Z., Olszewski, K., Chai, M., Huang, Z., Achlioptas, P. and Tulyakov, S., 2022. NeROIC: Neural Rendering of Objects from Online Image Collections. https://arxiv.org/pdf/2201.02533.pdf
+
+[4] Borsos, Z., Sharifi, M. and Tagliasacchi, M., 2022. SpeechPainter: Text-conditioned Speech Inpainting. https://arxiv.org/pdf/2202.07273.pdf
