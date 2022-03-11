@@ -96,7 +96,9 @@ This is where a task I never covered on my channel comes in: speech inpainting. 
 
 ## Towards real-world blind face restoration with generative facial prior [5]<a name="5"></a>
 Do you also have old pictures of yourself or close ones that didn’t age well or that you, or your parents, took before we could produce high-quality images? I do, and I felt like those memories were damaged forever. Boy, was I wrong!
+
 This new and completely free AI model can fix most of your old pictures in a split second. It works well even with very low or high-quality inputs, which is typically quite the challenge.
+
 This week’s paper called Towards Real-World Blind Face Restoration with Generative Facial Prior tackles the photo restoration task with outstanding results. What’s even cooler is that you can try it yourself and in your preferred way. They have open-sourced their code, created a demo and online applications for you to try right now. If the results you’ve seen above aren’t convincing enough, just watch the video and let me know what you think in the comments, I know it will blow your mind!
 
 
