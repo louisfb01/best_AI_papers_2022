@@ -35,6 +35,7 @@ Subscribe to my [newsletter](http://eepurl.com/huGLT5) - The latest updates in A
 - [NeROIC: Neural Rendering of Objects from Online Image Collections [3]](#3)
 - [SpeechPainter: Text-conditioned Speech Inpainting [4]](#4)
 - [Towards real-world blind face restoration with generative facial prior [5]](#5)
+- [4D-Net for Learned Multi-Modal Alignment [6]](#6)
 - [Paper references](#references)
 
 ---
@@ -111,6 +112,22 @@ This week’s paper called Towards Real-World Blind Face Restoration with Genera
 * [Online app](https://huggingface.co/spaces/akhaliq/GFPGAN)
 
 
+## 4D-Net for Learned Multi-Modal Alignment [6]<a name="6"></a>
+How do autonomous vehicles see?
+
+You’ve probably heard of LiDAR sensors or other weird cameras they are using. But how do they work, how can they see the world, and what do they see exactly compared to us? Understanding how they work is essential if we want to put them on the road, primarily if you work in the government or build the next regulations. But also as a client of these services.
+
+We previously covered how Tesla autopilot sees and works, but they are different from conventional autonomous vehicles. Tesla only uses cameras to understand the world, while most of them, like Waymo, use regular cameras and 3D LiDAR sensors. These LiDAR sensors are pretty simple to understand: they won’t produce images like regular cameras but 3D point clouds. LiDAR cameras measure the distance between objects, calculating the pulse laser’s traveling time that they project to the object.
+
+Still, how can we efficiently combine this information and have the vehicle understand it? And what does the vehicle end up seeing? Only points everywhere? Is it enough for driving on our roads? We will look into this with a new research paper by Waymo and Google Research...
+
+
+* Short Video Explanation:<br/>
+[<img src="https://imgur.com/AxGLy7p.png" width="512"/>](https://youtu.be/0nJMnw1Ldks)
+* Short read: [Combine Lidar and Cameras for 3D object detection - Waymo](https://www.louisbouchard.ai/waymo-lidar/)
+* Paper: [4D-Net for Learned Multi-Modal Alignment](https://openaccess.thecvf.com/content/ICCV2021/papers/Piergiovanni_4D-Net_for_Learned_Multi-Modal_Alignment_ICCV_2021_paper.pdf)
+
+
 ---
 
 
@@ -133,3 +150,5 @@ This week’s paper called Towards Real-World Blind Face Restoration with Genera
 [4] Borsos, Z., Sharifi, M. and Tagliasacchi, M., 2022. SpeechPainter: Text-conditioned Speech Inpainting. https://arxiv.org/pdf/2202.07273.pdf
 
 [5] Wang, X., Li, Y., Zhang, H. and Shan, Y., 2021. Towards real-world blind face restoration with generative facial prior. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 9168–9178), https://arxiv.org/pdf/2101.04061.pdf
+
+[6] Piergiovanni, A.J., Casser, V., Ryoo, M.S. and Angelova, A., 2021. 4d-net for learned multi-modal alignment. In Proceedings of the IEEE/CVF International Conference on Computer Vision (pp. 15435–15445), https://openaccess.thecvf.com/content/ICCV2021/papers/Piergiovanni_4D-Net_for_Learned_Multi-Modal_Alignment_ICCV_2021_paper.pdf.
