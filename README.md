@@ -36,6 +36,7 @@ Subscribe to my [newsletter](http://eepurl.com/huGLT5) - The latest updates in A
 - [SpeechPainter: Text-conditioned Speech Inpainting [4]](#4)
 - [Towards real-world blind face restoration with generative facial prior [5]](#5)
 - [4D-Net for Learned Multi-Modal Alignment [6]](#6)
+- [Instant Neural Graphics Primitives with a Multiresolution Hash Encoding [7]](#7)
 - [Paper references](#references)
 
 ---
@@ -128,6 +129,22 @@ Still, how can we efficiently combine this information and have the vehicle unde
 * Paper: [4D-Net for Learned Multi-Modal Alignment](https://openaccess.thecvf.com/content/ICCV2021/papers/Piergiovanni_4D-Net_for_Learned_Multi-Modal_Alignment_ICCV_2021_paper.pdf)
 
 
+## Instant Neural Graphics Primitives with a Multiresolution Hash Encoding [7]<a name="7"></a>
+As if taking a picture wasn’t a challenging enough technological prowess, we are now doing the opposite: modeling the world from pictures. I’ve covered amazing AI-based models that could take images and turn them into high-quality scenes. A challenging task that consists of taking a few images in the 2-dimensional picture world to create how the object or person would look in the real world.
+
+Take a few pictures and instantly have a realistic model to insert into your product. How cool is that?!
+
+The results have dramatically improved upon the first model I covered in 2020, called NeRF. And this improvement isn’t only about the quality of the results. NVIDIA made it even better.
+
+Not only that the quality is comparable, if not better, but it is more than 1'000 times faster with less than two years of research.
+
+* Short Video Explanation:<br/>
+[<img src="https://imgur.com/8PilczV.png" width="512"/>](https://youtu.be/UHQZBQOVAIU)
+* Short read: [NVIDIA Turns Photos into 3D Scenes in Milliseconds](https://www.louisbouchard.ai/nvidia-photos-into-3d-scenes/)
+* Paper: [Instant Neural Graphics Primitives with a Multiresolution Hash Encoding](https://nvlabs.github.io/instant-ngp/assets/mueller2022instant.pdf)
+* [Code](https://github.com/NVlabs/instant-ngp)
+
+
 ---
 
 
@@ -152,3 +169,5 @@ Still, how can we efficiently combine this information and have the vehicle unde
 [5] Wang, X., Li, Y., Zhang, H. and Shan, Y., 2021. Towards real-world blind face restoration with generative facial prior. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 9168–9178), https://arxiv.org/pdf/2101.04061.pdf
 
 [6] Piergiovanni, A.J., Casser, V., Ryoo, M.S. and Angelova, A., 2021. 4d-net for learned multi-modal alignment. In Proceedings of the IEEE/CVF International Conference on Computer Vision (pp. 15435–15445), https://openaccess.thecvf.com/content/ICCV2021/papers/Piergiovanni_4D-Net_for_Learned_Multi-Modal_Alignment_ICCV_2021_paper.pdf.
+
+[7] Thomas Muller, Alex Evans, Christoph Schied and Alexander Keller, 2022, "Instant Neural Graphics Primitives with a Multiresolution Hash Encoding", https://nvlabs.github.io/instant-ngp/assets/mueller2022instant.pdf
