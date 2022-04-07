@@ -37,6 +37,7 @@ Subscribe to my [newsletter](http://eepurl.com/huGLT5) - The latest updates in A
 - [Towards real-world blind face restoration with generative facial prior [5]](#5)
 - [4D-Net for Learned Multi-Modal Alignment [6]](#6)
 - [Instant Neural Graphics Primitives with a Multiresolution Hash Encoding [7]](#7)
+- [Hierarchical Text-Conditional Image Generation with CLIP Latents [8]](#8)
 - [Paper references](#references)
 
 ---
@@ -145,6 +146,23 @@ Not only that the quality is comparable, if not better, but it is more than 1'00
 * [Code](https://github.com/NVlabs/instant-ngp)
 
 
+## Hierarchical Text-Conditional Image Generation with CLIP Latents [8]<a name="8"></a>
+Last year I shared DALL·E, an amazing model by OpenAI capable of generating images from a text input with incredible results. Now is time for his big brother, DALL·E 2. And you won’t believe the progress in a single year! DALL·E 2 is not only better at generating photorealistic images from text. The results are four times the resolution!
+
+As if it wasn’t already impressive enough, the recent model learned a new skill; image inpainting.
+
+DALL·E could generate images from text inputs.
+
+DALL·E 2 can do it better, but it doesn’t stop there. It can also edit those images and make them look even better! Or simply add a feature you want like some flamingos in the background.
+
+Sounds interesting? Learn more in the video or read more below!
+
+* Short Video Explanation:<br/>
+[<img src="https://imgur.com/xZlfsJO.png" width="512"/>](https://youtu.be/rdGVbPI42sA)
+* Short read: [OpenAI's new model DALL·E 2 is amazing!](https://www.louisbouchard.ai/openais-new-model-dall-e-2-is-amazing/)
+* Paper: [Hierarchical Text-Conditional Image Generation with CLIP Latents](https://cdn.openai.com/papers/dall-e-2.pdf)
+
+
 ---
 
 
@@ -171,3 +189,5 @@ Not only that the quality is comparable, if not better, but it is more than 1'00
 [6] Piergiovanni, A.J., Casser, V., Ryoo, M.S. and Angelova, A., 2021. 4d-net for learned multi-modal alignment. In Proceedings of the IEEE/CVF International Conference on Computer Vision (pp. 15435–15445), https://openaccess.thecvf.com/content/ICCV2021/papers/Piergiovanni_4D-Net_for_Learned_Multi-Modal_Alignment_ICCV_2021_paper.pdf.
 
 [7] Thomas Muller, Alex Evans, Christoph Schied and Alexander Keller, 2022, "Instant Neural Graphics Primitives with a Multiresolution Hash Encoding", https://nvlabs.github.io/instant-ngp/assets/mueller2022instant.pdf
+
+[8] A. Ramesh et al., 2022, "Hierarchical Text-Conditional Image Generation with CLIP Latents", https://cdn.openai.com/papers/dall-e-2.pdf
