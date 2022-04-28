@@ -38,6 +38,7 @@ Subscribe to my [newsletter](http://eepurl.com/huGLT5) - The latest updates in A
 - [4D-Net for Learned Multi-Modal Alignment [6]](#6)
 - [Instant Neural Graphics Primitives with a Multiresolution Hash Encoding [7]](#7)
 - [Hierarchical Text-Conditional Image Generation with CLIP Latents [8]](#8)
+- [MyStyle: A Personalized Generative Prior [9]](#9)
 - [Paper references](#references)
 
 ---
@@ -163,6 +164,20 @@ Sounds interesting? Learn more in the video or read more below!
 * Paper: [Hierarchical Text-Conditional Image Generation with CLIP Latents](https://cdn.openai.com/papers/dall-e-2.pdf)
 
 
+## MyStyle: A Personalized Generative Prior [9]<a name="9"></a>
+This new model by Google Research and Tel-Aviv University is incredible. You can see it as a very, very powerful deepfake that can do anything. 
+
+Take a hundred pictures of any person and you have its persona encoded to fix, edit or create any realistic picture you want.
+
+This is both amazing and scary if you ask me, especially when you look at the results. Watch the video to see more results and understand how the model works!
+
+* Short Video Explanation:<br/>
+[<img src="https://imgur.com/FAhVBzM.png" width="512"/>](https://youtu.be/BNWAEvFfFvQ)
+* Short read: [Your Personal Photoshop Expert with AI!](https://www.louisbouchard.ai/mystyle/)
+* Paper: [MyStyle: A Personalized Generative Prior](https://arxiv.org/abs/2203.17272)
+* [Code (coming soon)](https://mystyle-personalized-prior.github.io/)
+
+
 ---
 
 
@@ -191,3 +206,5 @@ Sounds interesting? Learn more in the video or read more below!
 [7] Thomas Muller, Alex Evans, Christoph Schied and Alexander Keller, 2022, "Instant Neural Graphics Primitives with a Multiresolution Hash Encoding", https://nvlabs.github.io/instant-ngp/assets/mueller2022instant.pdf
 
 [8] A. Ramesh et al., 2022, "Hierarchical Text-Conditional Image Generation with CLIP Latents", https://cdn.openai.com/papers/dall-e-2.pdf
+
+[9] Nitzan, Y., Aberman, K., He, Q., Liba, O., Yarom, M., Gandelsman, Y., Mosseri, I., Pritch, Y. and Cohen-Or, D., 2022. MyStyle: A Personalized Generative Prior. arXiv preprint arXiv:2203.17272.
