@@ -39,6 +39,7 @@ Subscribe to my [newsletter](http://eepurl.com/huGLT5) - The latest updates in A
 - [Instant Neural Graphics Primitives with a Multiresolution Hash Encoding [7]](#7)
 - [Hierarchical Text-Conditional Image Generation with CLIP Latents [8]](#8)
 - [MyStyle: A Personalized Generative Prior [9]](#9)
+- [OPT: Open Pre-trained Transformer Language Models [10]](#10)
 - [Paper references](#references)
 
 ---
@@ -178,6 +179,18 @@ This is both amazing and scary if you ask me, especially when you look at the re
 * [Code (coming soon)](https://mystyle-personalized-prior.github.io/)
 
 
+## OPT: Open Pre-trained Transformer Language Models [10]<a name="10"></a>
+We’ve all heard about GPT-3 and have somewhat of a clear idea of its capabilities. You’ve most certainly seen some applications born strictly due to this model, some of which I covered in a previous video about the model. GPT-3 is a model developed by OpenAI that you can access through a paid API but have no access to the model itself.
+
+What makes GPT-3 so strong is both its architecture and size. It has 175 billion parameters. Twice the amount of neurons we have in our brains! This immense network was pretty much trained on the whole internet to understand how we write, exchange, and understand text. This week, Meta has taken a big step forward for the community. They just released a model that is just as powerful, if not more and has completely open-sourced it.
+
+* Short Video Explanation:<br/>
+[<img src="https://imgur.com/ZBHHYaQ.png" width="512"/>](https://youtu.be/Ejg0OunCi9U)
+* Short read: [Meta's new model OPT is GPT-3's closest competitor! (and is open source)](https://www.louisbouchard.ai/opt-meta/)
+* Paper: [OPT: Open Pre-trained Transformer Language Models](https://arxiv.org/pdf/2205.01068.pdf)
+* [Code](https://github.com/facebookresearch/metaseq)
+
+
 ---
 
 
@@ -208,3 +221,5 @@ This is both amazing and scary if you ask me, especially when you look at the re
 [8] A. Ramesh et al., 2022, "Hierarchical Text-Conditional Image Generation with CLIP Latents", https://cdn.openai.com/papers/dall-e-2.pdf
 
 [9] Nitzan, Y., Aberman, K., He, Q., Liba, O., Yarom, M., Gandelsman, Y., Mosseri, I., Pritch, Y. and Cohen-Or, D., 2022. MyStyle: A Personalized Generative Prior. arXiv preprint arXiv:2203.17272.
+
+[10] Zhang, Susan et al. “OPT: Open Pre-trained Transformer Language Models.” https://arxiv.org/abs/2205.01068
