@@ -41,6 +41,7 @@ Subscribe to my [newsletter](http://eepurl.com/huGLT5) - The latest updates in A
 - [MyStyle: A Personalized Generative Prior [9]](#9)
 - [OPT: Open Pre-trained Transformer Language Models [10]](#10)
 - [BlobGAN: Spatially Disentangled Scene Representations [11]](#11)
+- [A Generalist Agent [12]](#12)
 - [Paper references](#references)
 
 ---
@@ -207,6 +208,17 @@ And you can actually play with this one compared to some companies we all know! 
 * [Colab Demo](https://colab.research.google.com/drive/1clvh28Yds5CvKsYYENGLS3iIIrlZK4xO?usp=sharing#scrollTo=0QuVIyVplOKu)
 
 
+## A Generalist Agent [12]<a name="12"></a>
+Gato from DeepMind was just published! It is a single transformer that can play Atari games, caption images, chat with people, control a real robotic arm, and more! Indeed, it is trained once and uses the same weights to achieve all those tasks. And as per Deepmind, this is not only a transformer but also an agent. This is what happens when you mix Transformers with progress on multi-task reinforcement learning agents.
+
+Gato is a multi-modal agent. Meaning that it can create captions for images or answer questions as a chatbot. You’d say that GPT-3 can already do that, but Gato can do more… The multi-modality comes from the fact that Gato can also play Atari games at the human level or even do real-world tasks like controlling robotic arms to move objects precisely. It understands words, images, and even physics...
+
+* Short Video Explanation:<br/>
+[<img src="https://imgur.com/rr9VUXn.png" width="512"/>](https://youtu.be/xZKSWNv6Esc)
+* Short read: [Deepmind's new model Gato is amazing!](https://www.louisbouchard.ai/deepmind-gato/)
+* Paper: [A Generalist Agent](https://storage.googleapis.com/deepmind-media/A%20Generalist%20Agent/Generalist%20Agent.pdf)
+
+
 ---
 
 
@@ -241,3 +253,5 @@ And you can actually play with this one compared to some companies we all know! 
 [10] Zhang, Susan et al. “OPT: Open Pre-trained Transformer Language Models.” https://arxiv.org/abs/2205.01068
 
 [11] Epstein, D., Park, T., Zhang, R., Shechtman, E. and Efros, A.A., 2022. BlobGAN: Spatially Disentangled Scene Representations. arXiv preprint arXiv:2205.02837.
+
+[12] Reed S. et al., 2022, Deemind: Gato - A generalist agent, https://storage.googleapis.com/deepmind-media/A%20Generalist%20Agent/Generalist%20Agent.pdf
