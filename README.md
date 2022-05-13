@@ -40,6 +40,7 @@ Subscribe to my [newsletter](http://eepurl.com/huGLT5) - The latest updates in A
 - [Hierarchical Text-Conditional Image Generation with CLIP Latents [8]](#8)
 - [MyStyle: A Personalized Generative Prior [9]](#9)
 - [OPT: Open Pre-trained Transformer Language Models [10]](#10)
+- [BlobGAN: Spatially Disentangled Scene Representations [11]](#11)
 - [Paper references](#references)
 
 ---
@@ -191,6 +192,21 @@ What makes GPT-3 so strong is both its architecture and size. It has 175 billion
 * [Code](https://github.com/facebookresearch/metaseq)
 
 
+## BlobGAN: Spatially Disentangled Scene Representations [11]<a name="11"></a>
+BlobGAN allows for unreal manipulation of images, made super easily controlling simple blobs. All these small blobs represent an object, and you can move them around or make them bigger, smaller, or even remove them, and it will have the same effect on the object it represents in the image. This is so cool!
+
+As the authors shared in their results, you can even create novel images by duplicating blobs, creating unseen images in the dataset [like a room with two ceiling fans](https://youtu.be/mnEzjpiA_4E)! Correct me if I’m wrong, but I believe it is one of, if not the first, paper to make the modification of images as simple as moving blobs around and allowing for edits that were unseen in the training dataset. 
+
+And you can actually play with this one compared to some companies we all know! They shared their code publicly and a Colab Demo you can try right away. Even more exciting is how BlobGAN works. Learn more in the video!
+
+* Short Video Explanation:<br/>
+[<img src="https://imgur.com/9ouN5ta.png" width="512"/>](https://youtu.be/mnEzjpiA_4E)
+* Short read: [This is a BIG step for GANs! BlobGAN Explained](https://www.louisbouchard.ai/blobgan/)
+* Paper: [BlobGAN: Spatially Disentangled Scene Representations](https://dave.ml/blobgan/)
+* [Code](https://github.com/dave-epstein/blobgan)
+* [Colab Demo](https://colab.research.google.com/drive/1clvh28Yds5CvKsYYENGLS3iIIrlZK4xO?usp=sharing#scrollTo=0QuVIyVplOKu)
+
+
 ---
 
 
@@ -223,3 +239,5 @@ What makes GPT-3 so strong is both its architecture and size. It has 175 billion
 [9] Nitzan, Y., Aberman, K., He, Q., Liba, O., Yarom, M., Gandelsman, Y., Mosseri, I., Pritch, Y. and Cohen-Or, D., 2022. MyStyle: A Personalized Generative Prior. arXiv preprint arXiv:2203.17272.
 
 [10] Zhang, Susan et al. “OPT: Open Pre-trained Transformer Language Models.” https://arxiv.org/abs/2205.01068
+
+[11] Epstein, D., Park, T., Zhang, R., Shechtman, E. and Efros, A.A., 2022. BlobGAN: Spatially Disentangled Scene Representations. arXiv preprint arXiv:2205.02837.
