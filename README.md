@@ -42,6 +42,7 @@ Subscribe to my [newsletter](http://eepurl.com/huGLT5) - The latest updates in A
 - [OPT: Open Pre-trained Transformer Language Models [10]](#10)
 - [BlobGAN: Spatially Disentangled Scene Representations [11]](#11)
 - [A Generalist Agent [12]](#12)
+- [Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding [13]](#13)
 - [Paper references](#references)
 
 ---
@@ -219,6 +220,20 @@ Gato is a multi-modal agent. Meaning that it can create captions for images or a
 * Paper: [A Generalist Agent](https://storage.googleapis.com/deepmind-media/A%20Generalist%20Agent/Generalist%20Agent.pdf)
 
 
+## Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding [13]<a name="13"></a>
+If you thought Dall-e 2 had great results, wait until you see what this new model from Google Brain can do. 
+
+Dalle-e is amazing but often lacks realism, and this is what the team attacked with this new model called Imagen. 
+
+They share a lot of results on their project page as well as a benchmark, which they introduced for comparing text-to-image models, where they clearly outperform Dall-E 2, and previous image generation approaches. Learn more in the video...
+
+* Short Video Explanation:<br/>
+[<img src="https://imgur.com/IpwaSvZ.png" width="512"/>](https://youtu.be/qhtYPhPWCsI)
+* Short read: [Google Brain's Answer to Dalle-e 2: Imagen](https://www.louisbouchard.ai/google-brain-imagen/)
+* Paper: [Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding](https://imagen.research.google/paper.pdf)
+* [Project page with results](https://imagen.research.google/)
+
+
 ---
 
 
@@ -255,3 +270,5 @@ Gato is a multi-modal agent. Meaning that it can create captions for images or a
 [11] Epstein, D., Park, T., Zhang, R., Shechtman, E. and Efros, A.A., 2022. BlobGAN: Spatially Disentangled Scene Representations. arXiv preprint arXiv:2205.02837.
 
 [12] Reed S. et al., 2022, Deemind: Gato - A generalist agent, https://storage.googleapis.com/deepmind-media/A%20Generalist%20Agent/Generalist%20Agent.pdf
+
+[13] Saharia et al., 2022, Google Brain, Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding, https://gweb-research-imagen.appspot.com/paper.pdf
