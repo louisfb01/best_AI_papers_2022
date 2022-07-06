@@ -44,6 +44,7 @@ Subscribe to my [newsletter](http://eepurl.com/huGLT5) - The latest updates in A
 - [A Generalist Agent [12]](#12)
 - [Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding [13]](#13)
 - [Dalle mini [14]](#14)
+- [No Language Left Behind: Scaling Human-Centered Machine Translation [15]](#15)
 - [Paper references](#references)
 
 ---
@@ -252,6 +253,18 @@ Dalle mini is a free, open-source AI that produces amazing images from text inpu
 * [Huggingface official demo](https://huggingface.co/spaces/dalle-mini/dalle-mini)
 
 
+## No Language Left Behind: Scaling Human-Centered Machine Translation [15]<a name="15"></a>
+Meta AI’s most recent model, called “No Language Left Behind” does exactly that: translates across 200 different languages with state-of-the-art quality.
+A single model can handle 200 languages. How incredible is that?
+
+We find it difficult to have great results strictly in English while Meta is tackling 200 different languages with the same model, and some of the most complicated and less represented ones that even google translate struggles with...
+
+* Short Video Explanation:<br/>
+[<img src="https://imgur.com/OHV5bTU.png" width="512"/>](https://youtu.be/2G4NeG17Eis)
+* Short read: [No Language Left Behind](https://www.louisbouchard.ai/nolanguageleftbehind/)
+* [Code](https://github.com/facebookresearch/fairseq/tree/nllb)
+
+
 ---
 
 
@@ -292,3 +305,5 @@ Dalle mini is a free, open-source AI that produces amazing images from text inpu
 [13] Saharia et al., 2022, Google Brain, Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding, https://gweb-research-imagen.appspot.com/paper.pdf
 
 [14] Dayma, et al., 2021, DALL·E Mini, doi:10.5281/zenodo.5146400
+
+[15] NLLB Team et al., 2022, No Language Left Behind: Scaling Human-Centered Machine Translation
