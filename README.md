@@ -261,7 +261,7 @@ We find it difficult to have great results strictly in English while Meta is tac
 
 * Short Video Explanation:<br/>
 [<img src="https://imgur.com/OHV5bTU.png" width="512"/>](https://youtu.be/2G4NeG17Eis)
-* Short read: [No Language Left Behind](https://www.louisbouchard.ai/nolanguageleftbehind/)
+* Short read: [No Language Left Behind](https://www.louisbouchard.ai/no-language-left-behind/)
 * [Code](https://github.com/facebookresearch/fairseq/tree/nllb)
 
 
