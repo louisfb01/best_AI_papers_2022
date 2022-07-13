@@ -45,6 +45,7 @@ Subscribe to my [newsletter](http://eepurl.com/huGLT5) - The latest updates in A
 - [Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding [13]](#13)
 - [Dalle mini [14]](#14)
 - [No Language Left Behind: Scaling Human-Centered Machine Translation [15]](#15)
+- [Dual-Shutter Optical Vibration Sensing [16]](#16)
 - [Paper references](#references)
 
 ---
@@ -263,6 +264,17 @@ We find it difficult to have great results strictly in English while Meta is tac
 [<img src="https://imgur.com/OHV5bTU.png" width="512"/>](https://youtu.be/2G4NeG17Eis)
 * Short read: [No Language Left Behind](https://www.louisbouchard.ai/no-language-left-behind/)
 * [Code](https://github.com/facebookresearch/fairseq/tree/nllb)
+* Paper: [No Language Left Behind](https://ai.facebook.com/research/no-language-left-behind/)
+
+
+## Dual-Shutter Optical Vibration Sensing [16]<a name="16"></a>
+They reconstruct sound using cameras and a laser beam on any vibrating surface, allowing them to isolate music instruments, focus on a specific speaker, remove ambient noises, and many more amazing applications.
+
+* Short Video Explanation:<br/>
+[<img src="https://imgur.com/kkS7tGw.png" width="512"/>](https://youtu.be/n1M8ZVspJcs)
+* Short read: [CVPR 2022 Best Paper Honorable Mention: Dual-Shutter Optical Vibration Sensing](https://www.louisbouchard.ai/cvpr-2022-best-paper/)
+* [Project page](https://imaging.cs.cmu.edu/vibration/)
+* Paper: [Dual-Shutter Optical Vibration Sensing](https://www.marksheinin.com/_files/ugd/a41a28_7d370603fafd419da387de85d8ecb5b4.pdf?index=true)
 
 
 ---
@@ -307,3 +319,5 @@ We find it difficult to have great results strictly in English while Meta is tac
 [14] Dayma, et al., 2021, DALL·E Mini, doi:10.5281/zenodo.5146400
 
 [15] NLLB Team et al., 2022, No Language Left Behind: Scaling Human-Centered Machine Translation
+
+[16] Sheinin, Mark and Chan, Dorian and O’Toole, Matthew and Narasimhan, Srinivasa G., 2022, Dual-Shutter Optical Vibration Sensing, Proc. IEEE CVPR.
