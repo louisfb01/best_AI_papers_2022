@@ -46,6 +46,7 @@ Subscribe to my [newsletter](http://eepurl.com/huGLT5) - The latest updates in A
 - [Dalle mini [14]](#14)
 - [No Language Left Behind: Scaling Human-Centered Machine Translation [15]](#15)
 - [Dual-Shutter Optical Vibration Sensing [16]](#16)
+- [Make-a-scene: Scene-based text-to-image generation with human priors[17]](#17)
 - [Paper references](#references)
 
 ---
@@ -277,6 +278,17 @@ They reconstruct sound using cameras and a laser beam on any vibrating surface, 
 * Paper: [Dual-Shutter Optical Vibration Sensing](https://www.marksheinin.com/_files/ugd/a41a28_7d370603fafd419da387de85d8ecb5b4.pdf?index=true)
 
 
+## Make-a-scene: Scene-based text-to-image generation with human priors [17]<a name="17"></a>
+Make-A-Scene is not “just another Dalle”. The goal of this new model isn’t to allow users to generate random images following text prompt as dalle does — which is really cool — but restricts the user control on the generations.
+
+Instead, Meta wanted to push creative expression forward, merging this text-to-image trend with previous sketch-to-image models, leading to “Make-A-Scene”: a fantastic blend between text and sketch-conditioned image generation.
+
+* Short Video Explanation:<br/>
+[<img src="https://imgur.com/bivyUmD.png" width="512"/>](https://youtu.be/K3bZXXjW788)
+* Short read: [Produce Amazing Artworks with Text and Sketches!](https://www.louisbouchard.ai/make-a-scene/)
+* Paper: [Make-a-scene: Scene-based text-to-image generation with human priors](https://arxiv.org/pdf/2203.13131.pdf)
+
+
 ---
 
 
@@ -321,3 +333,5 @@ They reconstruct sound using cameras and a laser beam on any vibrating surface, 
 [15] NLLB Team et al., 2022, No Language Left Behind: Scaling Human-Centered Machine Translation
 
 [16] Sheinin, Mark and Chan, Dorian and O’Toole, Matthew and Narasimhan, Srinivasa G., 2022, Dual-Shutter Optical Vibration Sensing, Proc. IEEE CVPR.
+
+[17] Gafni, O., Polyak, A., Ashual, O., Sheynin, S., Parikh, D. and Taigman, Y., 2022. Make-a-scene: Scene-based text-to-image generation with human priors. https://arxiv.org/pdf/2203.13131.pdf
