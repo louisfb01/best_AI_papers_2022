@@ -46,7 +46,8 @@ Subscribe to my [newsletter](http://eepurl.com/huGLT5) - The latest updates in A
 - [Dalle mini [14]](#14)
 - [No Language Left Behind: Scaling Human-Centered Machine Translation [15]](#15)
 - [Dual-Shutter Optical Vibration Sensing [16]](#16)
-- [Make-a-scene: Scene-based text-to-image generation with human priors[17]](#17)
+- [Make-a-scene: Scene-based text-to-image generation with human priors [17]](#17)
+- [BANMo: Building Animatable 3D Neural Models from Many Casual Videos [18]](#18)
 - [Paper references](#references)
 
 ---
@@ -289,6 +290,15 @@ Instead, Meta wanted to push creative expression forward, merging this text-to-i
 * Paper: [Make-a-scene: Scene-based text-to-image generation with human priors](https://arxiv.org/pdf/2203.13131.pdf)
 
 
+## BANMo: Building Animatable 3D Neural Models from Many Casual Videos [18]<a name="18"></a>
+Create deformable 3D models from pictures with BANMo!
+
+* Short Video Explanation:<br/>
+[<img src="https://imgur.com/ulRCcMS.png" width="512"/>](https://youtu.be/jDTy-liFoCQ)
+* Short read: [Build Animatable 3D Models with AI](https://www.louisbouchard.ai/banmo/)
+* Paper: [BANMo: Building Animatable 3D Neural Models from Many Casual Videos](https://banmo-www.github.io/banmo-cvpr.pdf)
+* [Code](https://github.com/facebookresearch/banmo)
+
 ---
 
 
@@ -335,3 +345,5 @@ Instead, Meta wanted to push creative expression forward, merging this text-to-i
 [16] Sheinin, Mark and Chan, Dorian and O’Toole, Matthew and Narasimhan, Srinivasa G., 2022, Dual-Shutter Optical Vibration Sensing, Proc. IEEE CVPR.
 
 [17] Gafni, O., Polyak, A., Ashual, O., Sheynin, S., Parikh, D. and Taigman, Y., 2022. Make-a-scene: Scene-based text-to-image generation with human priors. https://arxiv.org/pdf/2203.13131.pdf
+
+[18] Yang, G., Vo, M., Neverova, N., Ramanan, D., Vedaldi, A. and Joo, H., 2022. Banmo: Building animatable 3d neural models from many casual videos. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 2863–2873).
