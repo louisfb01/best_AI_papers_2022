@@ -48,6 +48,7 @@ Subscribe to my [newsletter](http://eepurl.com/huGLT5) - The latest updates in A
 - [Dual-Shutter Optical Vibration Sensing [16]](#16)
 - [Make-a-scene: Scene-based text-to-image generation with human priors [17]](#17)
 - [BANMo: Building Animatable 3D Neural Models from Many Casual Videos [18]](#18)
+- [High-resolution image synthesis with latent diffusion models [19]](#19)
 - [Paper references](#references)
 
 ---
@@ -299,6 +300,18 @@ Create deformable 3D models from pictures with BANMo!
 * Paper: [BANMo: Building Animatable 3D Neural Models from Many Casual Videos](https://banmo-www.github.io/banmo-cvpr.pdf)
 * [Code](https://github.com/facebookresearch/banmo)
 
+
+## High-resolution image synthesis with latent diffusion models [19]<a name="19"></a>
+What do all recent super powerful image models like DALLE, Imagen, or Midjourney have in common? Other than their high computing costs, huge training time, and shared hype, they are all based on the same mechanism: diffusion.
+Diffusion models recently achieved state-of-the-art results for most image tasks including text-to-image with DALLE but many other image generation-related tasks too, like image inpainting, style transfer or image super-resolution.
+
+* Short Video Explanation:<br/>
+[<img src="https://imgur.com/PanqNAf.png" width="512"/>](https://youtu.be/RGBNdD3Wn-g)
+* Short read: [Latent Diffusion Models: The Architecture behind Stable Diffusion](https://www.louisbouchard.ai/latent-diffusion-models/)
+* Paper: [High-resolution image synthesis with latent diffusion models](https://arxiv.org/pdf/2112.10752.pdf)
+* [Code](https://github.com/CompVis/latent-diffusion)
+
+
 ---
 
 
@@ -346,4 +359,6 @@ Create deformable 3D models from pictures with BANMo!
 
 [17] Gafni, O., Polyak, A., Ashual, O., Sheynin, S., Parikh, D. and Taigman, Y., 2022. Make-a-scene: Scene-based text-to-image generation with human priors. https://arxiv.org/pdf/2203.13131.pdf
 
-[18] Yang, G., Vo, M., Neverova, N., Ramanan, D., Vedaldi, A. and Joo, H., 2022. Banmo: Building animatable 3d neural models from many casual videos. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 2863–2873).
+[18] Gafni, O., Polyak, A., Ashual, O., Sheynin, S., Parikh, D. and Taigman, Y., 2022. Make-a-scene: Scene-based text-to-image generation with human priors. https://arxiv.org/pdf/2203.13131.pdf
+
+[19] Rombach, R., Blattmann, A., Lorenz, D., Esser, P. and Ommer, B., 2022. High-resolution image synthesis with latent diffusion models. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 10684–10695), https://arxiv.org/pdf/2112.10752.pdf
