@@ -49,6 +49,7 @@ Subscribe to my [newsletter](http://eepurl.com/huGLT5) - The latest updates in A
 - [Make-a-scene: Scene-based text-to-image generation with human priors [17]](#17)
 - [BANMo: Building Animatable 3D Neural Models from Many Casual Videos [18]](#18)
 - [High-resolution image synthesis with latent diffusion models [19]](#19)
+- [Panoptic Scene Graph Generation [20]](#20)
 - [Paper references](#references)
 
 ---
@@ -312,6 +313,17 @@ Diffusion models recently achieved state-of-the-art results for most image tasks
 * [Code](https://github.com/CompVis/latent-diffusion)
 
 
+## Panoptic Scene Graph Generation [20]<a name="20"></a>
+Panoptic scene graph generation, or PSG, is a new problem task aiming to generate a more comprehensive graph representation of an image or scene based on panoptic segmentation rather than bounding boxes. It can be used to understand images and generate sentences describing what's happening. This may be the most challenging task for an AI! Learn more below...
+
+* Short Video Explanation:<br/>
+[<img src="[https://imgur.com/QRQnydw.png" width="512"/>](https://youtu.be/cSsE_H_0Cr8)
+* Short read: [One of the Most Challenging Tasks for AI](https://www.louisbouchard.ai/psg/)
+* Paper: [Panoptic Scene Graph Generation](https://arxiv.org/abs/2207.11247)
+* [Code](https://github.com/Jingkang50/OpenPSG)
+* [Dataset](https://psgdataset.org/)
+
+
 ---
 
 
@@ -362,3 +374,5 @@ Diffusion models recently achieved state-of-the-art results for most image tasks
 [18] Gafni, O., Polyak, A., Ashual, O., Sheynin, S., Parikh, D. and Taigman, Y., 2022. Make-a-scene: Scene-based text-to-image generation with human priors. https://arxiv.org/pdf/2203.13131.pdf
 
 [19] Rombach, R., Blattmann, A., Lorenz, D., Esser, P. and Ommer, B., 2022. High-resolution image synthesis with latent diffusion models. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 10684–10695), https://arxiv.org/pdf/2112.10752.pdf
+
+[20] Yang, J., Ang, Y.Z., Guo, Z., Zhou, K., Zhang, W. and Liu, Z., 2022. Panoptic Scene Graph Generation. arXiv preprint arXiv:2207.11247.
