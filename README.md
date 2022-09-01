@@ -317,7 +317,7 @@ Diffusion models recently achieved state-of-the-art results for most image tasks
 Panoptic scene graph generation, or PSG, is a new problem task aiming to generate a more comprehensive graph representation of an image or scene based on panoptic segmentation rather than bounding boxes. It can be used to understand images and generate sentences describing what's happening. This may be the most challenging task for an AI! Learn more below...
 
 * Short Video Explanation:<br/>
-[<img src="[https://imgur.com/QRQnydw.png" width="512"/>](https://youtu.be/cSsE_H_0Cr8)
+[<img src="https://imgur.com/QRQnydw.png" width="512"/>](https://youtu.be/cSsE_H_0Cr8)
 * Short read: [One of the Most Challenging Tasks for AI](https://www.louisbouchard.ai/psg/)
 * Paper: [Panoptic Scene Graph Generation](https://arxiv.org/abs/2207.11247)
 * [Code](https://github.com/Jingkang50/OpenPSG)
