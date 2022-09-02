@@ -50,6 +50,7 @@ Subscribe to my [newsletter](http://eepurl.com/huGLT5) - The latest updates in A
 - [BANMo: Building Animatable 3D Neural Models from Many Casual Videos [18]](#18)
 - [High-resolution image synthesis with latent diffusion models [19]](#19)
 - [Panoptic Scene Graph Generation [20]](#20)
+- [An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion [21]](#21)
 - [Paper references](#references)
 
 ---
@@ -324,6 +325,20 @@ Panoptic scene graph generation, or PSG, is a new problem task aiming to genera
 * [Dataset](https://psgdataset.org/)
 
 
+## An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion [21]<a name="21"></a>
+Text-to-Image models like DALLE or stable diffusion are really cool and allow us to generate fantastic pictures with a simple text input. But would it be even cooler to give them a picture of you and ask it to turn it into a painting? Imagine being able to send any picture of an object, person, or even your cat, and ask the model to transform it into another style like turning yourself into a cyborg of into your preferred artistic style or adding it to a new scene.
+
+Basically, how cool would it be to have a version of DALLE we can use to photoshop our pictures instead of having random generations? Having a personalized DALLE, while making it much more simple to control the generation as “an image is worth a thousand words”. It would be like having a DALLE model that is just as personalized and addictive as the TikTok algorithm.
+
+Well, this is what researchers from Tel Aviv University and NVIDIA worked on. They developed an approach for conditioning text-to-image models, like stable diffusion I covered last week, with a few images to represent any object or concept through the words you will send along your images. Transforming the object of your input images into whatever you want!
+
+* Short Video Explanation:<br/>
+[<img src="https://imgur.com/tpwcGVK.png" width="512"/>](https://youtu.be/f3oXa7_SYek)
+* Short read: [Guiding Stable Diffusion with your Images](https://www.louisbouchard.ai/imageworthoneword/)
+* Paper: [An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion](https://arxiv.org/pdf/2208.01618v1.pdf)
+* [Code](https://github.com/rinongal/textual_inversion)
+
+
 ---
 
 
@@ -376,3 +391,5 @@ Panoptic scene graph generation, or PSG, is a new problem task aiming to genera
 [19] Rombach, R., Blattmann, A., Lorenz, D., Esser, P. and Ommer, B., 2022. High-resolution image synthesis with latent diffusion models. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 10684–10695), https://arxiv.org/pdf/2112.10752.pdf
 
 [20] Yang, J., Ang, Y.Z., Guo, Z., Zhou, K., Zhang, W. and Liu, Z., 2022. Panoptic Scene Graph Generation. arXiv preprint arXiv:2207.11247.
+
+[21] Gal, R., Alaluf, Y., Atzmon, Y., Patashnik, O., Bermano, A.H., Chechik, G. and Cohen-Or, D., 2022. An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion.
