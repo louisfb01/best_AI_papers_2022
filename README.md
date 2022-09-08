@@ -51,6 +51,7 @@ Subscribe to my [newsletter](http://eepurl.com/huGLT5) - The latest updates in A
 - [High-resolution image synthesis with latent diffusion models [19]](#19)
 - [Panoptic Scene Graph Generation [20]](#20)
 - [An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion [21]](#21)
+- [Expanding Language-Image Pretrained Models for General Video Recognition [22]](#22)
 - [Paper references](#references)
 
 ---
@@ -339,6 +340,16 @@ Well, this is what researchers from Tel Aviv University and NVIDIA worked on. Th
 * [Code](https://github.com/rinongal/textual_inversion)
 
 
+## Expanding Language-Image Pretrained Models for General Video Recognition [22]<a name="22"></a>
+We’ve seen AI generate text, then generate images and most recently even generate short videos, even though they still need work. The results are incredible when you think that no one is actually involved in the creation process of these pieces and it only has to be trained once to then be used by thousands of people like stable diffusion is. Still, do these models really understand what they are doing? Do they know what the picture or video they just produced really represents? What does such a model understand when it sees such a picture or, even more complex, a video?
+
+* Short Video Explanation:<br/>
+[<img src="https://imgur.com/65Vz6if.png" width="512"/>](https://youtu.be/seb4lmVPEe8)
+* Short read: [General Video Recognition with AI](https://www.louisbouchard.ai/general-video-recognition/)
+* Paper: [Expanding Language-Image Pretrained Models for General Video Recognition](https://arxiv.org/abs/2208.02816)
+* [Code](https://github.com/microsoft/VideoX/tree/master/X-CLIP)
+
+
 ---
 
 
@@ -393,3 +404,5 @@ Well, this is what researchers from Tel Aviv University and NVIDIA worked on. Th
 [20] Yang, J., Ang, Y.Z., Guo, Z., Zhou, K., Zhang, W. and Liu, Z., 2022. Panoptic Scene Graph Generation. arXiv preprint arXiv:2207.11247.
 
 [21] Gal, R., Alaluf, Y., Atzmon, Y., Patashnik, O., Bermano, A.H., Chechik, G. and Cohen-Or, D., 2022. An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion.
+
+[22] Ni, B., Peng, H., Chen, M., Zhang, S., Meng, G., Fu, J., Xiang, S. and Ling, H., 2022. Expanding Language-Image Pretrained Models for General Video Recognition. arXiv preprint arXiv:2208.02816.
