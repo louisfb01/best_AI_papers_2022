@@ -52,6 +52,7 @@ Subscribe to my [newsletter](http://eepurl.com/huGLT5) - The latest updates in A
 - [Panoptic Scene Graph Generation [20]](#20)
 - [An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion [21]](#21)
 - [Expanding Language-Image Pretrained Models for General Video Recognition [22]](#22)
+- [MAKE-A-VIDEO: TEXT-TO-VIDEO GENERATION WITHOUT TEXT-VIDEO DATA [23]](#23)
 - [Paper references](#references)
 
 ---
@@ -350,6 +351,16 @@ We’ve seen AI generate text, then generate images and most recently even gener
 * [Code](https://github.com/microsoft/VideoX/tree/master/X-CLIP)
 
 
+## MAKE-A-VIDEO: TEXT-TO-VIDEO GENERATION WITHOUT TEXT-VIDEO DATA [23]<a name="23"></a>
+Meta AI’s new model make-a-video is out and in a single sentence: it generates videos from text. It’s not only able to generate videos, but it’s also the new state-of-the-art method, producing higher quality and more coherent videos than ever before!
+
+* Short Video Explanation:<br/>
+[<img src="https://imgur.com/ZAv9FBH.png" width="512"/>](https://youtu.be/MWwESVyHWto)
+* Short read: [Make-a-video: The AI Film Maker!](https://www.louisbouchard.ai/make-a-video/)
+* Paper: [MAKE-A-VIDEO: TEXT-TO-VIDEO GENERATION WITHOUT TEXT-VIDEO DATA](https://makeavideo.studio/Make-A-Video.pdf)
+* [Code](https://github.com/lucidrains/make-a-video-pytorch)
+
+
 ---
 
 
@@ -406,3 +417,5 @@ We’ve seen AI generate text, then generate images and most recently even gener
 [21] Gal, R., Alaluf, Y., Atzmon, Y., Patashnik, O., Bermano, A.H., Chechik, G. and Cohen-Or, D., 2022. An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion.
 
 [22] Ni, B., Peng, H., Chen, M., Zhang, S., Meng, G., Fu, J., Xiang, S. and Ling, H., 2022. Expanding Language-Image Pretrained Models for General Video Recognition. arXiv preprint arXiv:2208.02816.
+
+[23] Singer et al. (Meta AI), 2022, “MAKE-A-VIDEO: TEXT-TO-VIDEO GENERATION WITHOUT TEXT-VIDEO DATA”, https://makeavideo.studio/Make-A-Video.pdf
