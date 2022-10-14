@@ -53,6 +53,7 @@ Subscribe to my [newsletter](http://eepurl.com/huGLT5) - The latest updates in A
 - [An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion [21]](#21)
 - [Expanding Language-Image Pretrained Models for General Video Recognition [22]](#22)
 - [MAKE-A-VIDEO: TEXT-TO-VIDEO GENERATION WITHOUT TEXT-VIDEO DATA [23]](#23)
+- [Robust Speech Recognition via Large-Scale Weak Supervision [24]](#24)
 - [Paper references](#references)
 
 ---
@@ -361,6 +362,20 @@ Meta AI’s new model make-a-video is out and in a single sentence: it generates
 * [Code](https://github.com/lucidrains/make-a-video-pytorch)
 
 
+## Robust Speech Recognition via Large-Scale Weak Supervision [24]<a name="24"></a>
+Have you ever dreamed of a good transcription tool that would accurately understand what you say and write it down? Not like the automatic YouTube translation tools… I mean, they are good but far from perfect. Just try it out and turn the feature on for the video, and you’ll see what I’m talking about.
+
+Luckily, OpenAI just released and open-sourced a pretty powerful AI model just for that: Whisper.
+
+It understands stuff I can’t even comprehend, not being a native English speaker (listen in the video) and it works for language translation too!
+
+* Short Video Explanation:<br/>
+[<img src="https://imgur.com/mPbvHfl.png" width="512"/>](https://youtu.be/uFOkMme19Zs)
+* Short read: [OpenAI's Most Recent Model: Whisper (explained)](https://www.louisbouchard.ai/whisper/)
+* Paper: [Robust Speech Recognition via Large-Scale Weak Supervision](https://cdn.openai.com/papers/whisper.pdf)
+* [Code](https://github.com/openai/whisper)
+
+
 ---
 
 
@@ -419,3 +434,5 @@ Meta AI’s new model make-a-video is out and in a single sentence: it generates
 [22] Ni, B., Peng, H., Chen, M., Zhang, S., Meng, G., Fu, J., Xiang, S. and Ling, H., 2022. Expanding Language-Image Pretrained Models for General Video Recognition. arXiv preprint arXiv:2208.02816.
 
 [23] Singer et al. (Meta AI), 2022, “MAKE-A-VIDEO: TEXT-TO-VIDEO GENERATION WITHOUT TEXT-VIDEO DATA”, https://makeavideo.studio/Make-A-Video.pdf
+
+[24] Radford, A., Kim, J.W., Xu, T., Brockman, G., McLeavey, C. and Sutskever, I., Robust Speech Recognition via Large-Scale Weak Supervision.
