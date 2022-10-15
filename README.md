@@ -54,6 +54,7 @@ Subscribe to my [newsletter](http://eepurl.com/huGLT5) - The latest updates in A
 - [Expanding Language-Image Pretrained Models for General Video Recognition [22]](#22)
 - [MAKE-A-VIDEO: TEXT-TO-VIDEO GENERATION WITHOUT TEXT-VIDEO DATA [23]](#23)
 - [Robust Speech Recognition via Large-Scale Weak Supervision [24]](#24)
+- [DreamFusion: Text-to-3D using 2D Diffusion [25]](#25)
 - [Paper references](#references)
 
 ---
@@ -376,6 +377,21 @@ It understands stuff I can’t even comprehend, not being a native English speak
 * [Code](https://github.com/openai/whisper)
 
 
+## DreamFusion: Text-to-3D using 2D Diffusion [25]<a name="25"></a>
+We’ve seen models able to take a sentence and generate images. Then, other approaches to manipulate the generated images by learning specific concepts like an object or particular style.
+
+Last week Meta published the Make-A-Video model that I covered, which allows you to generate a short video also from a text sentence. The results aren’t perfect yet, but the progress we’ve made in the field since last year is just incredible.
+
+This week we make another step forward.
+
+Here’s DreamFusion, a new Google Research model that can understand a sentence enough to generate a 3D model of it. You can see this as a DALLE or Stable Diffusion but in 3D.
+
+* Short Video Explanation:<br/>
+[<img src="https://imgur.com/kgvlHXu.png" width="512"/>](https://youtu.be/epuU0VRIcjE)
+* Short read: [3D Models from Text! DreamFusion Explained](https://www.louisbouchard.ai/dreamfusion/)
+* Paper: [DreamFusion: Text-to-3D using 2D Diffusion](https://arxiv.org/abs/2209.14988)
+
+
 ---
 
 
@@ -436,3 +452,5 @@ It understands stuff I can’t even comprehend, not being a native English speak
 [23] Singer et al. (Meta AI), 2022, “MAKE-A-VIDEO: TEXT-TO-VIDEO GENERATION WITHOUT TEXT-VIDEO DATA”, https://makeavideo.studio/Make-A-Video.pdf
 
 [24] Radford, A., Kim, J.W., Xu, T., Brockman, G., McLeavey, C. and Sutskever, I., Robust Speech Recognition via Large-Scale Weak Supervision.
+
+[25] Poole, B., Jain, A., Barron, J.T. and Mildenhall, B., 2022. DreamFusion: Text-to-3D using 2D Diffusion. arXiv preprint arXiv:2209.14988.
