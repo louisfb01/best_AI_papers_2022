@@ -55,6 +55,7 @@ Subscribe to my [newsletter](http://eepurl.com/huGLT5) - The latest updates in A
 - [MAKE-A-VIDEO: TEXT-TO-VIDEO GENERATION WITHOUT TEXT-VIDEO DATA [23]](#23)
 - [Robust Speech Recognition via Large-Scale Weak Supervision [24]](#24)
 - [DreamFusion: Text-to-3D using 2D Diffusion [25]](#25)
+- [Imagic: Text-Based Real Image Editing with Diffusion Models [26]](#26)
 - [Paper references](#references)
 
 ---
@@ -392,6 +393,17 @@ Here’s DreamFusion, a new Google Research model that can understand a sentence
 * Paper: [DreamFusion: Text-to-3D using 2D Diffusion](https://arxiv.org/abs/2209.14988)
 
 
+## Imagic: Text-Based Real Image Editing with Diffusion Models [26]<a name="26"></a>
+If you think the recent image generation models like DALLE or Stable Diffusion are cool, you just won’t believe how incredible this one is.
+"This one" is Imagic. Imagic takes such a diffusion-based model able to take text and generate images out of it and adapts the model to edit the images. You can generate an image and then teach the model to edit it any way you want.
+
+* Short Video Explanation:<br/>
+[<img src="https://imgur.com/rws0FYl.png" width="512"/>](https://youtu.be/gbpPQ5kVJhM)
+* Short read: [AI Image Editing from Text! Imagic Explained](https://www.louisbouchard.ai/imagic/)
+* Paper: [Imagic: Text-Based Real Image Editing with Diffusion Models](https://arxiv.org/abs/2210.09276)
+* [Stable Diffusion implementation](https://github.com/justinpinkney/stable-diffusion/blob/main/notebooks/imagic.ipynb)
+
+
 ---
 
 
@@ -454,3 +466,5 @@ Here’s DreamFusion, a new Google Research model that can understand a sentence
 [24] Radford, A., Kim, J.W., Xu, T., Brockman, G., McLeavey, C. and Sutskever, I., Robust Speech Recognition via Large-Scale Weak Supervision.
 
 [25] Poole, B., Jain, A., Barron, J.T. and Mildenhall, B., 2022. DreamFusion: Text-to-3D using 2D Diffusion. arXiv preprint arXiv:2209.14988.
+
+[26] Kawar, B., Zada, S., Lang, O., Tov, O., Chang, H., Dekel, T., Mosseri, I. and Irani, M., 2022. Imagic: Text-Based Real Image Editing with Diffusion Models. arXiv preprint arXiv:2210.09276.
