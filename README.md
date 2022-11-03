@@ -56,6 +56,7 @@ Subscribe to my [newsletter](http://eepurl.com/huGLT5) - The latest updates in A
 - [Robust Speech Recognition via Large-Scale Weak Supervision [24]](#24)
 - [DreamFusion: Text-to-3D using 2D Diffusion [25]](#25)
 - [Imagic: Text-Based Real Image Editing with Diffusion Models [26]](#26)
+- [eDiffi: Text-to-Image Diffusion Models with an Ensemble of Expert Denoisers [27]](#27)
 - [Paper references](#references)
 
 ---
@@ -404,6 +405,15 @@ If you think the recent image generation models like DALLE or Stable Diffusio
 * [Stable Diffusion implementation](https://github.com/justinpinkney/stable-diffusion/blob/main/notebooks/imagic.ipynb)
 
 
+## eDiffi: Text-to-Image Diffusion Models with an Ensemble of Expert Denoisers [27]<a name="27"></a>
+eDiffi, NVIDIA's most recent model, generates better-looking and more accurate images than all previous approaches like DALLE 2 or Stable Diffusion. eDiffi better understands the text you send and is more customizable, adding a feature we saw in a previous paper from NVIDIA: the painter tool.
+
+* Short Video Explanation:<br/>
+[<img src="https://imgur.com/e0g0rNe.png" width="512"/>](https://youtu.be/grwp-ht_ixo)
+* Short read: [eDiffi explained: New SOTA Image Synthesis model!](https://www.louisbouchard.ai/ediffi/)
+* Paper: [eDiffi: Text-to-Image Diffusion Models with an Ensemble of Expert Denoisers](https://arxiv.org/abs/2211.01324)
+
+
 ---
 
 
@@ -468,3 +478,5 @@ If you think the recent image generation models like DALLE or Stable Diffusio
 [25] Poole, B., Jain, A., Barron, J.T. and Mildenhall, B., 2022. DreamFusion: Text-to-3D using 2D Diffusion. arXiv preprint arXiv:2209.14988.
 
 [26] Kawar, B., Zada, S., Lang, O., Tov, O., Chang, H., Dekel, T., Mosseri, I. and Irani, M., 2022. Imagic: Text-Based Real Image Editing with Diffusion Models. arXiv preprint arXiv:2210.09276.
+
+[27] Balaji, Y. et al., 2022, eDiffi: Text-to-Image Diffusion Models with an Ensemble of Expert Denoisers, https://arxiv.org/abs/2211.01324
