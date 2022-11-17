@@ -57,6 +57,7 @@ Subscribe to my [newsletter](http://eepurl.com/huGLT5) - The latest updates in A
 - [DreamFusion: Text-to-3D using 2D Diffusion [25]](#25)
 - [Imagic: Text-Based Real Image Editing with Diffusion Models [26]](#26)
 - [eDiffi: Text-to-Image Diffusion Models with an Ensemble of Expert Denoisers [27]](#27)
+- [InfiniteNature-Zero: Learning Perpetual View Generation of Natural Scenes from Single Images [28]](#28)
 - [Paper references](#references)
 
 ---
@@ -414,6 +415,15 @@ eDiffi, NVIDIA's most recent model, generates better-looking and more accurate i
 * Paper: [eDiffi: Text-to-Image Diffusion Models with an Ensemble of Expert Denoisers](https://arxiv.org/abs/2211.01324)
 
 
+## InfiniteNature-Zero: Learning Perpetual View Generation of Natural Scenes from Single Images [28]<a name="28"></a>
+Generate infinite new frames as if you would be flying into your image!
+
+* Short Video Explanation:<br/>
+[<img src="https://imgur.com/hza3mLh.png" width="512"/>](https://youtu.be/FQzGhukV-l0)
+* Short read: [InfiniteNature-Zero: Fly Into Your Pictures With AI!](https://www.louisbouchard.ai/infinitenature-zero/)
+* Paper: [InfiniteNature-Zero: Learning Perpetual View Generation of Natural Scenes from Single Images](https://infinite-nature-zero.github.io/static/pdfs/InfiniteNatureZero.pdf)
+* [Code](https://github.com/google-research/google-research/tree/master/infinite_nature_zero)
+
 ---
 
 
@@ -480,3 +490,5 @@ eDiffi, NVIDIA's most recent model, generates better-looking and more accurate i
 [26] Kawar, B., Zada, S., Lang, O., Tov, O., Chang, H., Dekel, T., Mosseri, I. and Irani, M., 2022. Imagic: Text-Based Real Image Editing with Diffusion Models. arXiv preprint arXiv:2210.09276.
 
 [27] Balaji, Y. et al., 2022, eDiffi: Text-to-Image Diffusion Models with an Ensemble of Expert Denoisers, https://arxiv.org/abs/2211.01324
+
+[28] Li, Z., Wang, Q., Snavely, N. and Kanazawa, A., 2022. InfiniteNature-Zero: Learning Perpetual View Generation of Natural Scenes from Single Images. In European Conference on Computer Vision (pp. 515–534). Springer, Cham, https://arxiv.org/abs/2207.11148
