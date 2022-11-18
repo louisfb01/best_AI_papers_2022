@@ -11,6 +11,9 @@ Here is a work in progress of the most interesting research papers for 2022. In 
 
 Maintainer: [louisfb01](https://github.com/louisfb01)
 
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40whats_ai)](https://twitter.com/Whats_AI)
+
+
 Subscribe to my [newsletter](http://eepurl.com/huGLT5) - The latest updates in AI explained every week.
 
 
@@ -248,6 +251,7 @@ They share a lot of results on their project page as well as a benchmark, which 
 * Paper: [Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding](https://imagen.research.google/paper.pdf)
 * [Project page with results](https://imagen.research.google/)
 
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40whats_ai)](https://twitter.com/Whats_AI)
 
 ## DALL·E Mini [14]<a name="14"></a>
 Dalle mini is amazing — and YOU can use it!
