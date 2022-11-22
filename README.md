@@ -61,6 +61,7 @@ Subscribe to my [newsletter](http://eepurl.com/huGLT5) - The latest updates in A
 - [Imagic: Text-Based Real Image Editing with Diffusion Models [26]](#26)
 - [eDiffi: Text-to-Image Diffusion Models with an Ensemble of Expert Denoisers [27]](#27)
 - [InfiniteNature-Zero: Learning Perpetual View Generation of Natural Scenes from Single Images [28]](#28)
+- [Galactica: A Large Language Model for Science [29]](#29)
 - [Paper references](#references)
 
 ---
@@ -428,6 +429,16 @@ Generate infinite new frames as if you would be flying into your image!
 * Paper: [InfiniteNature-Zero: Learning Perpetual View Generation of Natural Scenes from Single Images](https://infinite-nature-zero.github.io/static/pdfs/InfiniteNatureZero.pdf)
 * [Code](https://github.com/google-research/google-research/tree/master/infinite_nature_zero)
 
+
+## Galactica: A Large Language Model for Science [29]<a name="29"></a>
+Galactica is a large language model with a size comparable to GPT-3, but specialized on scientific knowledge. The model can write whitepapers, reviews, Wikipedia pages, and code. It knows how to cite and how to write equations. It’s kind of a big deal for AI and science.
+
+* Short Video Explanation:<br/>
+[<img src="https://imgur.com/HVEKpOY.png" width="512"/>](https://youtu.be/2GfxkCWWzLU)
+* Short read: [Galactica: What is it and What Happened?](https://www.louisbouchard.ai/galactica/)
+* Paper: [Galactica: A Large Language Model for Science](https://galactica.org/static/paper.pdf)
+
+
 ---
 
 
@@ -496,3 +507,5 @@ Generate infinite new frames as if you would be flying into your image!
 [27] Balaji, Y. et al., 2022, eDiffi: Text-to-Image Diffusion Models with an Ensemble of Expert Denoisers, https://arxiv.org/abs/2211.01324
 
 [28] Li, Z., Wang, Q., Snavely, N. and Kanazawa, A., 2022. InfiniteNature-Zero: Learning Perpetual View Generation of Natural Scenes from Single Images. In European Conference on Computer Vision (pp. 515–534). Springer, Cham, https://arxiv.org/abs/2207.11148
+
+[29] Taylor et al., 2022: Galactica: A Large Language Model for Science, https://galactica.org/
