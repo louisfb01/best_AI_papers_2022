@@ -62,6 +62,7 @@ Subscribe to my [newsletter](http://eepurl.com/huGLT5) - The latest updates in A
 - [eDiffi: Text-to-Image Diffusion Models with an Ensemble of Expert Denoisers [27]](#27)
 - [InfiniteNature-Zero: Learning Perpetual View Generation of Natural Scenes from Single Images [28]](#28)
 - [Galactica: A Large Language Model for Science [29]](#29)
+- [Real-time Neural Radiance Talking Portrait Synthesis via Audio-spatial Decomposition [30]](#30)
 - [Paper references](#references)
 
 ---
@@ -439,6 +440,15 @@ Galactica is a large language model with a size comparable to GPT-3, but special
 * Paper: [Galactica: A Large Language Model for Science](https://galactica.org/static/paper.pdf)
 
 
+## Real-time Neural Radiance Talking Portrait Synthesis via Audio-spatial Decomposition [30]<a name="30"></a>
+From a single video, they can synthesize the person talking for pretty much any word or sentence in real time with better quality. You can animate a talking head following any audio track in real-time.
+
+* Short Video Explanation:<br/>
+[<img src="https://imgur.com/Sk6fDKu.png" width="512"/>](https://youtu.be/JUqnLN6Q4B0)
+* Short read: [From Audio to Talking Heads in Real-Time with AI! RAD-NeRF explained](https://www.louisbouchard.ai/rad-nerf/)
+* Paper: [Real-time Neural Radiance Talking Portrait Synthesis via Audio-spatial Decomposition](https://arxiv.org/abs/2211.12368)
+
+
 ---
 
 
@@ -509,3 +519,5 @@ Galactica is a large language model with a size comparable to GPT-3, but special
 [28] Li, Z., Wang, Q., Snavely, N. and Kanazawa, A., 2022. InfiniteNature-Zero: Learning Perpetual View Generation of Natural Scenes from Single Images. In European Conference on Computer Vision (pp. 515–534). Springer, Cham, https://arxiv.org/abs/2207.11148
 
 [29] Taylor et al., 2022: Galactica: A Large Language Model for Science, https://galactica.org/
+
+[30] Tang, J., Wang, K., Zhou, H., Chen, X., He, D., Hu, T., Liu, J., Zeng, G. and Wang, J., 2022. Real-time Neural Radiance Talking Portrait Synthesis via Audio-spatial Decomposition. arXiv preprint arXiv:2211.12368.
