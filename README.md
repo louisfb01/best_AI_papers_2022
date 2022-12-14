@@ -63,6 +63,7 @@ Subscribe to my [newsletter](http://eepurl.com/huGLT5) - The latest updates in A
 - [InfiniteNature-Zero: Learning Perpetual View Generation of Natural Scenes from Single Images [28]](#28)
 - [Galactica: A Large Language Model for Science [29]](#29)
 - [Real-time Neural Radiance Talking Portrait Synthesis via Audio-spatial Decomposition [30]](#30)
+- [ChatGPT: Optimizing Language Models for Dialogue [31]](#31)
 - [Paper references](#references)
 
 ---
@@ -449,6 +450,19 @@ From a single video, they can synthesize the person talking for pretty much any 
 * Paper: [Real-time Neural Radiance Talking Portrait Synthesis via Audio-spatial Decomposition](https://arxiv.org/abs/2211.12368)
 
 
+## ChatGPT: Optimizing Language Models for Dialogue [31]<a name="31"></a>
+ChatGPT has taken over Twitter and pretty much the whole internet, thanks to its power and the meme potential it provides. We all know how being able to generate memes is the best way to conquer the internet, and so it worked.
+
+Since you’ve seen numerous examples, you might already know that ChatGPT is an AI recently released to the public by OpenAI, that you can chat with. It is also called a chatbot, meaning you can interact with it conversationally, imitatting a one-on-one human discussion.
+
+What you might not know is what it is and how it works... Watch the video or read the article or blog post below to learn more!
+
+* Short Video Explanation:<br/>
+[<img src="https://imgur.com/RpH5S2f.png" width="512"/>](https://youtu.be/AsFgn8vU-tQ)
+* Short read: [What is ChatGPT?](https://www.louisbouchard.ai/chatgpt/)
+* Blog Post: [ChatGPT: Optimizing Language Models for Dialogue](https://openai.com/blog/chatgpt/)
+
+
 ---
 
 
@@ -521,3 +535,5 @@ From a single video, they can synthesize the person talking for pretty much any 
 [29] Taylor et al., 2022: Galactica: A Large Language Model for Science, https://galactica.org/
 
 [30] Tang, J., Wang, K., Zhou, H., Chen, X., He, D., Hu, T., Liu, J., Zeng, G. and Wang, J., 2022. Real-time Neural Radiance Talking Portrait Synthesis via Audio-spatial Decomposition. arXiv preprint arXiv:2211.12368.
+
+[31] OpenAI, 2022: ChatGPT: Optimizing Language Models for Dialogue, https://openai.com/blog/chatgpt/
