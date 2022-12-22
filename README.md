@@ -5,9 +5,9 @@ While the world is still recovering, research hasn't slowed its frenetic pace, e
 
 >"Science cannot tell us what we ought to do, only what we can do."<br/>- Jean-Paul Sartre, Being and Nothingness
 
-Here is a work in progress of the most interesting research papers for 2022. In short, it is curated list of the latest breakthroughs in AI and Data Science by release date with a clear video explanation, link to a more in-depth article, and code (if applicable). Enjoy the read!
+Here's curated list of the latest breakthroughs in AI and Data Science by release date with a clear video explanation, link to a more in-depth article, and code (if applicable). Enjoy the read!
 
-**The complete reference to each paper is listed at the end of this repository.** *Star this repository to stay up to date!* ⭐️
+**The complete reference to each paper is listed at the end of this repository.** *Star this repository to stay up to date and stay tuned for next year!* ⭐️
 
 Maintainer: [louisfb01](https://github.com/louisfb01)
 
@@ -22,13 +22,7 @@ Subscribe to my [newsletter](http://eepurl.com/huGLT5) - The latest updates in A
 *Tag me on **Twitter** [@Whats_AI](https://twitter.com/Whats_AI) or **LinkedIn** [@Louis (What's AI) Bouchard](https://www.linkedin.com/in/whats-ai/) if you share the list!*
 
 
-👀 **If you'd like to support my work** and use W&B (for free) to track your ML experiments and make your work reproducible or collaborate with a team, you can try it out by following [this guide](https://colab.research.google.com/github/louisfb01/examples/blob/master/colabs/pytorch/Simple_PyTorch_Integration.ipynb)! Since most of the code here is PyTorch-based, we thought that a [QuickStart guide](https://colab.research.google.com/github/louisfb01/examples/blob/master/colabs/pytorch/Simple_PyTorch_Integration.ipynb) for using W&B on PyTorch would be most interesting to share.
-
-👉Follow [this quick guide](https://colab.research.google.com/github/louisfb01/examples/blob/master/colabs/pytorch/Simple_PyTorch_Integration.ipynb), use the same W&B lines in your code or any of the repos below, and have all your experiments automatically tracked in your w&b account! It doesn't take more than 5 minutes to set up and will change your life as it did for me! [Here's a more advanced guide](https://colab.research.google.com/github/louisfb01/examples/blob/master/colabs/pytorch/Organizing_Hyperparameter_Sweeps_in_PyTorch_with_W%26B.ipynb) for using Hyperparameter Sweeps if interested :)
-
-🙌 Thank you to [Weights & Biases](https://wandb.ai/) for sponsoring this repository and the work I've been doing, and thanks to any of you using this link and trying W&B!
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/louisfb01/examples/blob/master/colabs/pytorch/Simple_PyTorch_Integration.ipynb)
+👀 **If you'd like to support my work**, you can check to [Sponsor](https://github.com/sponsors/louisfb01) this repository or support me on [Patreon](https://www.patreon.com/whatsai).
 
 ----
 
@@ -64,6 +58,7 @@ Subscribe to my [newsletter](http://eepurl.com/huGLT5) - The latest updates in A
 - [Galactica: A Large Language Model for Science [29]](#29)
 - [Real-time Neural Radiance Talking Portrait Synthesis via Audio-spatial Decomposition [30]](#30)
 - [ChatGPT: Optimizing Language Models for Dialogue [31]](#31)
+- [Production-Ready Face Re-Aging for Visual Effects [32]](#32)
 - [Paper references](#references)
 
 ---
@@ -328,6 +323,9 @@ Diffusion models recently achieved state-of-the-art results for most image tasks
 * [Code](https://github.com/CompVis/latent-diffusion)
 
 
+👀 **If you'd like to support my work**, you can check to [Sponsor](https://github.com/sponsors/louisfb01) this repository or support me on [Patreon](https://www.patreon.com/whatsai).
+
+
 ## Panoptic Scene Graph Generation [20]<a name="20"></a>
 Panoptic scene graph generation, or PSG, is a new problem task aiming to generate a more comprehensive graph representation of an image or scene based on panoptic segmentation rather than bounding boxes. It can be used to understand images and generate sentences describing what's happening. This may be the most challenging task for an AI! Learn more below...
 
@@ -463,6 +461,17 @@ What you might not know is what it is and how it works... Watch the video or rea
 * Blog Post: [ChatGPT: Optimizing Language Models for Dialogue](https://openai.com/blog/chatgpt/)
 
 
+## Production-Ready Face Re-Aging for Visual Effects [32]<a name="32"></a>
+Whether it be for fun in a Snapchat filter, for a movie, or even to remove a few riddles, we all have a utility in mind for being able to change our age in a picture.
+
+This is usually done by skilled artists using Photoshop or a similar tool to edit your pictures. Worst, in a video, they have to do this kind of manual editing for every frame! Just imagine the amount of work needed for that. Well, here’s a solution and a new problem to this situation... 👇
+
+* Short Video Explanation:<br/>
+[<img src="https://imgur.com/QOo0O5N.png" width="512"/>](https://youtu.be/WC03N0NFfwk)
+* Short read: [Automatic Re-Aging with AI! Disney’s FRAN Model Explained](https://www.louisbouchard.ai/disney-re-age/)
+* Blog Post: [Production-Ready Face Re-Aging for Visual Effects](https://studios.disneyresearch.com/2022/11/30/production-ready-face-re-aging-for-visual-effects/)
+
+
 ---
 
 
@@ -537,3 +546,5 @@ What you might not know is what it is and how it works... Watch the video or rea
 [30] Tang, J., Wang, K., Zhou, H., Chen, X., He, D., Hu, T., Liu, J., Zeng, G. and Wang, J., 2022. Real-time Neural Radiance Talking Portrait Synthesis via Audio-spatial Decomposition. arXiv preprint arXiv:2211.12368.
 
 [31] OpenAI, 2022: ChatGPT: Optimizing Language Models for Dialogue, https://openai.com/blog/chatgpt/
+
+[32] Loss et al., DisneyResearch, 2022: FRAN, https://studios.disneyresearch.com/2022/11/30/production-ready-face-re-aging-for-visual-effects/
