@@ -265,7 +265,7 @@ Dalle mini is a free, open-source AI that produces amazing images from text inpu
 [<img src="https://imgur.com/Ux4ItPo.png" width="512"/>](https://youtu.be/qOxde_JV0vI)
 * Short read: [How does dalle-mini work?](https://www.louisbouchard.ai/dalle-mini/)
 * [Code](https://github.com/borisdayma/dalle-mini)
-* [Huggingface official demo](https://huggingface.co/spaces/dalle-mini/dalle-mini)
+* [Hugging Face official demo](https://huggingface.co/spaces/dalle-mini/dalle-mini)
 
 
 ## No Language Left Behind: Scaling Human-Centered Machine Translation [15]<a name="15"></a>
