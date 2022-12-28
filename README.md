@@ -462,7 +462,7 @@ What you might not know is what it is and how it works... Watch the video or rea
 
 
 ## Production-Ready Face Re-Aging for Visual Effects [32]<a name="32"></a>
-Whether it be for fun in a Snapchat filter, for a movie, or even to remove a few riddles, we all have a utility in mind for being able to change our age in a picture.
+Whether it be for fun in a Snapchat filter, for a movie, or even to remove a few wrinkles, we all have a utility in mind for being able to change our age in a picture.
 
 This is usually done by skilled artists using Photoshop or a similar tool to edit your pictures. Worst, in a video, they have to do this kind of manual editing for every frame! Just imagine the amount of work needed for that. Well, here’s a solution and a new problem to this situation... 👇
 
