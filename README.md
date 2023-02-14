@@ -23,6 +23,8 @@ Subscribe to my [newsletter](http://eepurl.com/huGLT5) - The latest updates in A
 
 👀 **If you'd like to support my work**, you can check to [Sponsor](https://github.com/sponsors/louisfb01) this repository or support me on [Patreon](https://www.patreon.com/whatsai). You can also support me by following my favorite [daily AI newsletter](https://www.syntheticmind.io/subscribe?ref=EFowuebnlZ) to get frequent updates on new papers like those!
 
+Or support me by wearing cool [merch](https://whatsai.myshopify.com/)!
+
  ### Watch a complete 2022 rewind in 8 minutes
 
 [<img src="https://imgur.com/MGt3APx.png" width="512"/>](https://youtu.be/tYRTzWHOQio)
@@ -421,6 +423,11 @@ eDiffi, NVIDIA's most recent model, generates better-looking and more accurate i
 [<img src="https://imgur.com/e0g0rNe.png" width="512"/>](https://youtu.be/grwp-ht_ixo)
 * Short read: [eDiffi explained: New SOTA Image Synthesis model!](https://www.louisbouchard.ai/ediffi/)
 * Paper: [eDiffi: Text-to-Image Diffusion Models with an Ensemble of Expert Denoisers](https://arxiv.org/abs/2211.01324)
+
+
+👀 **If you'd like to support my work**, you can check to [Sponsor](https://github.com/sponsors/louisfb01) this repository or support me on [Patreon](https://www.patreon.com/whatsai). You can also support me by following my favorite [daily AI newsletter](https://www.syntheticmind.io/subscribe?ref=EFowuebnlZ) to get frequent updates on new papers like those!
+
+Or support me by wearing cool [merch](https://whatsai.myshopify.com/)!
 
 
 ## InfiniteNature-Zero: Learning Perpetual View Generation of Natural Scenes from Single Images [28]<a name="28"></a>
