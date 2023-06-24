@@ -9,7 +9,7 @@ Here's curated list of the latest breakthroughs in AI and Data Science by releas
 
 **The complete reference to each paper is listed at the end of this repository.** *Star this repository to stay up to date and stay tuned for next year!* ⭐️
 
-Maintainer: [louisfb01](https://github.com/louisfb01)
+Maintainer: [louisfb01](https://github.com/louisfb01), also active on [YouTube](https://www.youtube.com/@whatsai) and as a [Podcaster](https://open.spotify.com/show/4rKRJXaXlClkDyInjHkxq3) if you want to see/hear more about AI!
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40whats_ai)](https://twitter.com/Whats_AI)
 
@@ -201,6 +201,9 @@ This is both amazing and scary if you ask me, especially when you look at the re
 * Short read: [Your Personal Photoshop Expert with AI!](https://www.louisbouchard.ai/mystyle/)
 * Paper: [MyStyle: A Personalized Generative Prior](https://arxiv.org/abs/2203.17272)
 * [Code (coming soon)](https://mystyle-personalized-prior.github.io/)
+
+
+> Check out [the What's AI podcast](https://open.spotify.com/show/4rKRJXaXlClkDyInjHkxq3) for more AI content in the form of interviews with experts in the field! An invited AI expert and I will cover specific topics, sub-fields, and roles related to AI to teach and share knowledge from the people who worked hard to gather it.
 
 
 ## OPT: Open Pre-trained Transformer Language Models [10]<a name="10"></a>
